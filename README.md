@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/G29jrbz/Screen-Shot-2023-01-12-at-12-21-27-PM.png" alt="Hyperlane Content Contributors"/>
 </p>
 
-To add your content and win rewards, check the contributing guide.
+To add your content and win rewards, check the [contributing guide](https://github.com/hyperlane-xyz/hyperlane-content/blob/main/CONTRIBUTING.md).
 
 Looking for docs? Find official Hyperlane docs [here](https://docs.hyperlane.xyz/)
 

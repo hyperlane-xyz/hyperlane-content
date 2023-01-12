@@ -11,7 +11,7 @@ Anyone and everyone is welcome to add content into this guide. Please follow the
 
 **You do not have to pick up an existing issue or create one before opening a PR**. However, we recommend doing this so you can be sure your content is something we are looking for before you spend a load of time on it 🙂
 
-- Go to the Issues tab to see some content that Hyperlane or other developers have suggested
+- Go to the [Issues tab](https://github.com/hyperlane-xyz/hyperlane-content/issues) to see some content that Hyperlane or other developers have suggested
 - Anything with the `Ready to go` label can be picked up
 - Create your own Issue if you have an idea for content
 - In the Issue, please include Content Title, Description, and Recommended Type (e.g. article, video)
