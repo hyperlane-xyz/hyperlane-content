@@ -10,7 +10,7 @@ Looking for docs? Find official Hyperlane docs [here](https://docs.hyperlane.xyz
 
 | Link&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description | Type | Creator |
 | ----------------------- | ------------------ | ------------------ | ------------------ |
-| [No contentdasdsds yet](https://hyperlane.xyz)| Check back soon | Article | Or create your own!
+| [No content yet](https://hyperlane.xyz)| Check back soon | Article | Or create your own!
 
 # Messaging
 
