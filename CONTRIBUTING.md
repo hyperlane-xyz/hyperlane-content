@@ -1,4 +1,5 @@
 # Contributing guidelines
+> ⚡ Please note that although we encourage everyone to contribute, only approved content will quality for rewards
 
 Anyone and everyone is welcome to add content into this guide. Please follow these guidelines to make merging your PR easier:
 
@@ -6,6 +7,7 @@ Anyone and everyone is welcome to add content into this guide. Please follow the
 - You are welcome to add your name, pseudonym, GitHub username, Discord username, YouTube channel name, or anything you wish. You can also leave it anonymous
 - Please only add **one** single piece of content per PR
 - The pull request title should include the content name and Issue number if applicable
+- Your content must be approved by the Hyperlane team to quality for rewards
 
 ## Picking an Issue or adding your own
 
@@ -24,12 +26,11 @@ Please use the PR template which includes
 - Content name
 - Content type
 - Content link
-- Your name
 - Comments
-- Your wallet address for rewards
+- Your wallet address for rewards (if approved)
 
 ## Rewards
-Hyperlane will reward approved content in tokens, equating to these amounts in USD:
+Hyperlane will reward **approved** content in tokens, equating to these amounts in USD:
 
 - $200 for approved articles
 - $200-300 for approved videos 
