@@ -1,5 +1,5 @@
 # Contributing guidelines
-> ⚡ Please note that although we encourage everyone to contribute, only approved content will quality for rewards
+> ⚡ Please note that although we encourage everyone to contribute, only approved content will qualify for rewards
 
 Anyone and everyone is welcome to add content into this guide. Please follow these guidelines to make merging your PR easier:
 
