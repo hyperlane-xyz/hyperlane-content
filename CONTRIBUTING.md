@@ -29,6 +29,15 @@ Please use the PR template which includes
 - Comments
 - Your wallet address for rewards (if approved)
 
+## Approval Process
+You will qualify for rewards if your content is approved by the Hyperlane team. This is our approval process:
+- You open a PR with your new content following these guidelines
+- Hyperlane will mark your PR with the `In review` label
+- Someone from the Hyperlane team might make some comments or request edits to your content
+- Once all comments are addressed, the content will be approved or declined within 5 days
+- We will add a comment to let you know it is approved or declined and what reward(s) you qualify for. If applicable, we will confirm with you how you'd like to receive the token rewards
+- Once confirmed, the PR will be merged and tokens sent. We will comment the transaction information
+
 ## Rewards
 Hyperlane will reward **approved** content in tokens, equating to these amounts in USD:
 
