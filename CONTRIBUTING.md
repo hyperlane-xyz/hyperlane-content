@@ -45,7 +45,7 @@ Hyperlane will reward **approved** content in tokens, equating to these amounts 
 - $200-300 for approved videos 
 - $50-100 for approved infographics
 - $50-$300 for approved Twitter threads (depending on audience size)
-- $100-200 for Documents improvement
+- $100-200 for approved Hyperlane documentation improvements
 - $300-500 for a small coding project 
 
 Additionally: 
