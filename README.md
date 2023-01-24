@@ -10,15 +10,16 @@ Looking for docs? Find official Hyperlane docs [here](https://docs.hyperlane.xyz
 
 | Link&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description | Type | Creator |
 | ----------------------- | ------------------ | ------------------ | ------------------ |
-| [No content yet](https://hyperlane.xyz)| Check back soon | Article | Or create your own!
+| [Exploring Hyperlane use cases](https://medium.com/hyperlane/exploring-hyperlane-use-cases-e2b8153dcb1d)| Existing use cases of Hyperlane and potential exciting ones | Article | NoSleepJon 
+| [Building Interchain Apps on Hyperlane](https://www.youtube.com/watch?v=Rh2aBRvqtF4&t=2371s)| A workshop for developers getting started with cross-chain, discussing the Hyperlane ERC-20 token | Video | Yorke Rhodes
 
-# Messaging
+# Messaging API
 
 | Link&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description | Type | Creator |
 | ----------------------- | ------------------ | ------------------ | ------------------ |
-| [No content yet](https://hyperlane.xyz)| Check back soon | Video | Or create your own!
+| [The Hyperlane Msesage Lifecycle](https://medium.com/hyperlane/the-hyperlane-message-lifecycle-with-ugly-pictures-f82f59cab51f)| An article with diagrams desciribing how messaging works on Hyperlane | Article | NoSleepJon
 
-# Liquidity Layer
+# Liquidity Layer API
 
 | Link&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description | Type | Creator |
 | ----------------------- | ------------------ | ------------------ | ------------------ |
@@ -28,7 +29,7 @@ Looking for docs? Find official Hyperlane docs [here](https://docs.hyperlane.xyz
 
 | Link&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description | Type | Creator |
 | ----------------------- | ------------------ | ------------------ | ------------------ |
-| [No content yet](https://hyperlane.xyz)| Check back soon | Tweet Thread | Or create your own!
+| [Announcing Interchain Accounts and Queries]https://medium.com/hyperlane/announcing-interchain-accounts-and-queries-783452e23ff2)| A description into how Accounts and Queries APIs work with diagrams | Article | Yorke Rhodes
 
 # Queries API
 
@@ -46,4 +47,4 @@ Looking for docs? Find official Hyperlane docs [here](https://docs.hyperlane.xyz
 
 | Link&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description | Type | Creator |
 | ----------------------- | ------------------ | ------------------ | ------------------ |
-| [No content yet](https://hyperlane.xyz)| Check back soon | Video | Or create your own!
+| [Wut Hyperlane, Wut Sovereign Consensus](https://medium.com/hyperlane/wut-hyperlane-wut-sovereign-consensus-with-ugly-pictures-f96c479e3a00)| An introductory explainer for what makes Hyperlane unique, with diagrams | Article | NoSleepJon
