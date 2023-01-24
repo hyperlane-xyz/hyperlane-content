@@ -1,5 +1,4 @@
 # Contributing guidelines
-> ⚡ Please note that although we encourage everyone to contribute, only approved content will qualify for rewards
 
 Anyone and everyone is welcome to add content into this guide. Please follow these guidelines to make merging your PR easier:
 
@@ -30,25 +29,8 @@ Please use the PR template which includes
 - Your wallet address for rewards (if approved)
 
 ## Approval Process
-You will qualify for rewards if your content is approved by the Hyperlane team. This is our approval process:
+Although we love as much content as possible, this will be a trusted guide for developers so we can only merge PRs that meet a quality standard. We'll be following this process:
 - You open a PR with your new content following these guidelines
 - Hyperlane will mark your PR with the `In review` label
-- Someone from the Hyperlane team might make some comments or request edits to your content
-- Once all comments are addressed, the content will be approved or declined within 5 days
-- We will add a comment to let you know it is approved or declined and what reward(s) you qualify for. If applicable, we will confirm with you how you'd like to receive the token rewards
-- Once confirmed, the PR will be merged and tokens sent. We will comment the transaction information
-
-## Rewards
-Hyperlane will reward **approved** content in tokens, equating to these amounts in USD:
-
-- $200 for approved articles
-- $200-300 for approved videos 
-- $50-100 for approved infographics
-- $50-$300 for approved Twitter threads (depending on audience size)
-- $100-200 for approved Hyperlane documentation improvements
-- $300-500 for a small coding project 
-
-Additionally: 
-- OG Contributors role for contributors who get content merged within the first month of this program
-- Hyperlane Top Contributor role to participants with 2 or more rewarded contributions
-- Website mention for 5 or more rewarded contributions (Twitter handle + picture)
+- Someone from the Hyperlane team might make some comments or request edits to your content, and approve/decline within 5 days
+- Once confirmed, the PR will be merged!
