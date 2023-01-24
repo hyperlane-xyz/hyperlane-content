@@ -17,7 +17,7 @@ Looking for docs? Find official Hyperlane docs [here](https://docs.hyperlane.xyz
 
 | Link&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description | Type | Creator |
 | ----------------------- | ------------------ | ------------------ | ------------------ |
-| [The Hyperlane Msesage Lifecycle](https://medium.com/hyperlane/the-hyperlane-message-lifecycle-with-ugly-pictures-f82f59cab51f)| An article with diagrams desciribing how messaging works on Hyperlane | Article | NoSleepJon
+| [The Hyperlane Message Lifecycle](https://medium.com/hyperlane/the-hyperlane-message-lifecycle-with-ugly-pictures-f82f59cab51f)| An article with diagrams desciribing how messaging works on Hyperlane | Article | NoSleepJon
 
 # Liquidity Layer API
 
@@ -29,7 +29,7 @@ Looking for docs? Find official Hyperlane docs [here](https://docs.hyperlane.xyz
 
 | Link&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description | Type | Creator |
 | ----------------------- | ------------------ | ------------------ | ------------------ |
-| [Announcing Interchain Accounts and Queries]https://medium.com/hyperlane/announcing-interchain-accounts-and-queries-783452e23ff2)| A description into how Accounts and Queries APIs work with diagrams | Article | Yorke Rhodes
+| [Announcing Interchain Accounts and Queries](https://medium.com/hyperlane/announcing-interchain-accounts-and-queries-783452e23ff2)| A description into how Accounts and Queries APIs work with diagrams | Article | Yorke Rhodes
 
 # Queries API
 
